@@ -34,4 +34,4 @@ The detailed business insights and presentation slides for this project are avai
 3. Run all cells.
 
 ---
-*Author: [Atha Azzahra]*
+*Author: Atha Azzahra*
