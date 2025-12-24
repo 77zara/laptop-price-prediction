@@ -1,6 +1,6 @@
 # 💻 Laptop Price Analysis & Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1viZAwX5vhmoO1vL10U4ZL_BV35BduvME?usp=drive_open)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Deau5YirnMYs3xzpkpDi9xZqby3kTY36)
 
 ## 📌 Project Overview
 Buying a laptop can be confusing with so many specifications. This project analyzes a dataset of laptops to understand how different features (RAM, CPU, GPU, etc.) influence the **Price (Euro)**.
@@ -30,8 +30,9 @@ The detailed business insights and presentation slides for this project are avai
 
 ## 📂 How to Run
 1. Click the "Open in Colab" badge above.
-2. Download the dataset file from this repository and upload it to the Colab session.
-3. Run all cells.
+2. Download the dataset (`laptop_price_dataset.csv`) from this repository.
+3. Upload it to the Colab session.
+4. Run all cells.
 
 ---
 *Author: Atha Azzahra*
