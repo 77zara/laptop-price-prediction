@@ -26,7 +26,7 @@ The dataset contains details of varying laptop configurations:
 
 ## 📢 Project Presentation
 The detailed business insights and presentation slides for this project are available on my LinkedIn.
-[**👉 View Presentation on LinkedIn**](#) *(Replace this # with your LinkedIn Post URL!)*
+[**👉 View Presentation on LinkedIn**](#) 
 
 ## 📂 How to Run
 1. Click the "Open in Colab" badge above.
